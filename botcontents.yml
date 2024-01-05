@@ -1,0 +1,33 @@
+{"intents":[
+{"tags": "greetings",
+"patterns":["hello","hey","Hi","Good day","What's up?","how is it going"]
+"responses":["Hello","Hey!","how can i help you","what you want to know","what can i do for u"]
+}
+
+{"tags":"Good Bye",
+"Patterns":["Ta Ta","see u later","i am leaving","have a good day","bye",]
+"responses":["Talk to u later","come again","good bye!",]
+}
+{"tags":"thanking",
+"patterns":["thanks","Thank  u so much","thanks a lot"]
+"responses":["welcome","It's my plasure","want to see you again","come again"]
+}
+{"Schools":
+"patterns":["which school is best in odisha","Top 10 best school in Odisha","in which school hostel facility available","which school having low course fee and best school"]
+"responses":["SAi interntional school,Holy Family School","ODM PUblic School","Doon International SChool","DElhi Public School","SHree Krishna International school","ODM Global School","Mother's Public School","KIIt international School"]
+          [want to know more information please visit this"schools.careers360.com","bestschool.net.in"]
+}
+{"colleges":
+"patterns":[which engineering colleges are best in odisha","Top ten colleges in odisha"]
+"responses":[1	College of Engineering	Bhubaneswar
+2	Indus College of Engineering	Bhubaneswar
+3	Konark Institute of Science and Technology	Bhubaneswar
+4	Krupajal Group of Institutions	Bhubaneswar
+5	Mahavir Institute of Engineering and Technology	Bhubaneswar
+6	Orissa Engineering College	Bhubaneswar
+7	C. V. Raman College of Engineering	Bhubaneswar
+8	Eastern Academy of Science and Technology	Bhubaneswar
+9	Raajdhani Engineering College	Bhubaneswar
+10	Synergy Institute of Engineering & Technology	Bhubaneswar "]
+"patterns":["which medical colleges are best,top ten colleges in odisha"]
+"responces":
